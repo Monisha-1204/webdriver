@@ -9,8 +9,7 @@
 	<class name="com.leaftaps.testcases.LoginFirefox"/>	    
 	<class name="com.leaftaps.testcases.TC001_JustLogin"/>
 	<class name="com.leaftaps.testcases.LoginEdge"/>
-	    <class name="com.leaftaps.testcases.Login"/>
-	
+
     </classes>
   </test> 
 </suite>
